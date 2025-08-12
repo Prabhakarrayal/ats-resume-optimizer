@@ -41,7 +41,7 @@ This project is an AI-powered resume optimization tool that analyzes your resume
    
    [GitHub clone](https://github.com/Prabhakarrayal)
    
-   [Colab]([https://github.com/Prabhakarrayal](https://drive.google.com/file/d/1e6AmndI0NMJVTkNHyp4FViRIt3bEKyfh/view?usp=sharing))
+   [Colab](https://drive.google.com/file/d/1e6AmndI0NMJVTkNHyp4FViRIt3bEKyfh/view?usp=drive_link)
    
        cd ats-resume-optimizer
    
