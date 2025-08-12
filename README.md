@@ -1,7 +1,7 @@
-📝 ATS Resume Optimizer using Google Gemini AI
+##📝 ATS Resume Optimizerusing Google Gemini AI
 This project is an AI-powered resume optimization tool that analyzes your resume against a target job description and rewrites it to maximize ATS (Applicant Tracking System) compatibility. It intelligently detects missing skills, improves bullet points, and produces polished resume files in DOCX and PDF formats.
 
-🔧 Technologies Used
+##🔧 Technologies Used
 Python
 
 Google Gemini API (google-generativeai SDK)
