@@ -39,8 +39,9 @@ This project is an AI-powered resume optimization tool that analyzes your resume
 
 1. Clone the repository:  
    
-   #git clone ["https://github.com/yourusername/ats-resume-optimizer.git"]
-   #colab 
+   [GitHub clone](https://github.com/Prabhakarrayal)
+   
+   [colab]([https://github.com/Prabhakarrayal](https://drive.google.com/file/d/1e6AmndI0NMJVTkNHyp4FViRIt3bEKyfh/view?usp=sharing)) 
        cd ats-resume-optimizer
    
 3. Install dependencies:
@@ -72,4 +73,5 @@ Prabhakar Rayal
 B.Tech CSE | Graphic Era Hill University
 📍 Rishikesh, Uttarakhand, India
 
-GitHub Profile | LinkedIn Profile
+[GitHub Profile](https://github.com/Prabhakarrayal), 
+[LinkedIn Profile](https://in.linkedin.com/in/prabhakar-rayal-6639682)
