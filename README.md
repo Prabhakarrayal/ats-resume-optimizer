@@ -37,9 +37,9 @@ This project is an AI-powered resume optimization tool that analyzes your resume
 
 ## 🚀 How to Run
 
-1. Clone the repository:  
+1. Clone the repository from one of these:  
    
-   [GitHub clone](https://github.com/Prabhakarrayal/ats-resume-optimizer)
+   [GitHub](https://github.com/Prabhakarrayal/ats-resume-optimizer)
    
    [Colab](https://drive.google.com/file/d/1e6AmndI0NMJVTkNHyp4FViRIt3bEKyfh/view?usp=drive_link)
    
