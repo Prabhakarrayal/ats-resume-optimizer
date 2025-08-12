@@ -69,6 +69,7 @@ Integrate more advanced ATS keyword scoring algorithms
 Support multiple resume file formats (PDF parsing, etc.)
 
 Add tone and confidence analysis for interview preparation
+
 ## ✍️ Author
 Prabhakar Rayal
 B.Tech CSE | Graphic Era Hill University
