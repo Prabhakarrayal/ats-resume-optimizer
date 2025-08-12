@@ -1,96 +1,77 @@
-📄 ATS Resume Optimizer
+📝 ATS Resume Optimizer using Google Gemini AI
+This project is an AI-powered resume optimization tool that analyzes your resume against a target job description and rewrites it to maximize ATS (Applicant Tracking System) compatibility. It intelligently detects missing skills, improves bullet points, and produces polished resume files in DOCX and PDF formats.
 
-An AI-powered tool that rewrites resumes to maximize Applicant Tracking System (ATS) match scores by aligning them with a given job description. This project uses Google Gemini API for text analysis and rewriting, extracting missing skills, and producing an optimized, ATS-friendly version of the resume.
-       
-       #🚀 Features
+🔧 Technologies Used
+Python
 
-Automatic Skill Extraction
-Detects missing keywords, skills, and phrases from the job description.
+Google Gemini API (google-generativeai SDK)
 
-Technical & Non-Technical Resume Handling
-Classifies resumes as technical or non-technical and optimizes accordingly.
+NLTK (text processing)
 
-ATS Match Estimation
-Provides an estimated ATS keyword match score before and after optimization.
+python-docx (DOCX generation)
 
-Professional Rewriting
-Improves grammar, tone, and structure while keeping facts intact.
+FPDF (PDF export)
 
-DOCX & PDF Export
-Outputs clean, recruiter-ready resumes in both .docx and .pdf formats.
+Jupyter Notebook / VS Code (development)
 
-Change Report
-Generates a JSON report summarizing modifications for transparency.
+📌 Features
+Extracts missing hard and soft skills from the job description
 
-🛠️ Tech Stack
-Language: Python 3.
+Classifies resumes as technical or non-technical for tailored optimization
 
-AI API: Google Gemini API. (THE API KEY I USED IN THIS PROJECT WILL BE AVAILABLE FOR 7 DAYS AFTER SUBMISSION)
+Estimates ATS keyword match score before and after rewriting
 
-Libraries: google-generativeai (Gemini API client),
+Rewrites resume content to add relevant skills and improve clarity
 
-nltk (skill extraction), python-docx (DOCX creation),
+Generates clean, formatted DOCX and PDF resume files
 
-fpdf (PDF generation), re (text cleaning).
-📂 Project Structure
-resume-optimizer/
+Produces a detailed change report summarizing added skills and suggestions
 
-├── Resume_Optimizer.ipynb # Main notebook
+📁 What You Need to Run
+Python 3.8+ installed
 
-├── requirements.txt # Dependencies
+Google Gemini API key with access enabled
 
-├── sample_resume.docx # Example resume
+Sample resume file (DOCX or text)
 
-├── job_description.txt # Example job description
+Target job description text
 
-├── optimized_resume.docx # Output DOCX
+🚀 How to Run
+Clone this repository:
 
-├── optimized_resume.pdf # Output PDF
+bash
+Copy code
+git clone https://github.com/yourusername/ats-resume-optimizer.git
+cd ats-resume-optimizer
+Install dependencies:
 
-├── resume_change_report.json # Summary of changes
-
-└── README.md # Project documentation
-
-⚙️ Setup Instructions
-1️⃣ Clone the Repository
-from colab
-git clone https://github.com/Prabhakarrayal
-
-cd resume-optimizer
-2️⃣ Install Dependencies
-
+bash
+Copy code
 pip install -r requirements.txt
-3️⃣ Set up Google Gemini API Key
+Set your Google Gemini API key in environment variables or code
 
-Go to Google AI Studio
+Open and run the Jupyter notebook (Resume_Optimizer.ipynb) in Google Colab or VS Code
 
-Generate an API key Save it in a .env file:
+Upload your resume and paste the job description when prompted
 
-GEMINI_API_KEY=your_api_key_here
-4️⃣ Run the Notebook In Google Colab or VS Code Jupyter Extension:
+Run all cells to generate optimized resume and reports
 
-jupyter notebook Resume_Optimizer.ipynb
-🖥️ Usage
-Upload Resume (DOCX or TXT format)
+Download the output DOCX, PDF, and change summary files
 
-Paste Job Description in the input cell
+##🚀 Future Improvements
+Add fuzzy matching to better handle varied resume formats
 
-Run All Cells
+Build a web app interface using Flask or Streamlit
 
-Download Optimized Resume & Report
+Integrate more advanced ATS keyword scoring
 
-📊 Example Output
-ATS Match Before: 62%
+Support multiple resume file formats (PDF parsing, etc.)
 
-ATS Match After: 88%
+Add tone and confidence analysis for interview prep (voice model)
 
-Added Skills: ["Agile Methodology", "SQL", "Stakeholder Management"]
+✍️ Author
+Prabhakar Rayal
+B.Tech CSE | Graphic Era Hill University
+📍 Rishikesh, Uttarakhand, India
 
-📎 Resources
-Google Gemini API Docs
-
-Python-docx Documentation
-
-FPDF Documentation
-
-NLTK Documentation
+GitHub Profile | LinkedIn Profile
