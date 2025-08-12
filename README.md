@@ -1,7 +1,9 @@
 📄 ATS Resume Optimizer
-An AI-powered tool that rewrites resumes to maximize Applicant Tracking System (ATS) match scores by aligning them with a given job description. This project uses Google Gemini API for text analysis and rewriting, extracting missing skills, and producing an optimized, ATS-friendly version of the resume.
 
-🚀 Features
+An AI-powered tool that rewrites resumes to maximize Applicant Tracking System (ATS) match scores by aligning them with a given job description. This project uses Google Gemini API for text analysis and rewriting, extracting missing skills, and producing an optimized, ATS-friendly version of the resume.
+       
+       #🚀 Features
+
 Automatic Skill Extraction
 Detects missing keywords, skills, and phrases from the job description.
 
