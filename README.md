@@ -30,7 +30,7 @@ This project is an AI-powered resume optimization tool that analyzes your resume
 
 - Python 3.8 or higher  
 - Google Gemini API key with access enabled  
-- Sample resume file (DOCX or plain text)  
+- Sample resume file (DOCX or PDF)  
 - Target job description text  
 
 ---
