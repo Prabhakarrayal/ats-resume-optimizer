@@ -49,7 +49,7 @@ This project is an AI-powered resume optimization tool that analyzes your resume
 
        pip install -r requirements.txt
 
-4. Set your Google Gemini API key in environment variables or in the code
+4. Set your Google Gemini API key in environment variables or in the code (HERE I HAVE USED MY API KEY, CHANGING THE API KEY IS NEEDED IN THIS PROJECT)
 
 5. Open and run the Jupyter notebook (Resume_Optimizer.ipynb) in Google Colab or VS Code
 
