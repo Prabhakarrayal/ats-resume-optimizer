@@ -1,4 +1,4 @@
-# 📝 ATS Resume Optimizer using Google Gemini AI
+# 📝 ATS Resume Optimizer using Google Gen AI
 
 This project is an AI-powered resume optimization tool that analyzes your resume against a target job description and rewrites it to maximize ATS (Applicant Tracking System) compatibility. It intelligently detects missing skills, improves bullet points, and produces polished resume files in DOCX and PDF formats.
 
@@ -75,5 +75,4 @@ Prabhakar Rayal
 B.Tech CSE | Graphic Era Hill University
 📍 Rishikesh, Uttarakhand, India
 
-[GitHub Profile](https://github.com/Prabhakarrayal), 
-[LinkedIn Profile](https://in.linkedin.com/in/prabhakar-rayal-6639682)
+[GitHub Profile](https://github.com/Prabhakarrayal) | [LinkedIn Profile](https://in.linkedin.com/in/prabhakar-rayal-6639682) | [PORTFOLIO](https://prabhakar-rayal-gtz3vl4.gamma.site/)
